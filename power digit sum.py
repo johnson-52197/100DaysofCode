@@ -32,7 +32,6 @@ print(sum(val2))
 
 print("Time of Execution for approach 2 {} seconds".format(time.time()-start_time_2))
 
-
 '''
 1366
 Time of Execution for approach 1 0.000997304916381836 seconds
